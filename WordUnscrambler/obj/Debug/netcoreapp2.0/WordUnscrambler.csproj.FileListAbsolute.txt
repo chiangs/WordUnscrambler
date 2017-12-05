@@ -1,0 +1,11 @@
+/Users/dev/Courses/VisualStudio/WordUnscrambler/WordUnscrambler/bin/Debug/netcoreapp2.0/WordUnscrambler.deps.json
+/Users/dev/Courses/VisualStudio/WordUnscrambler/WordUnscrambler/bin/Debug/netcoreapp2.0/WordUnscrambler.runtimeconfig.json
+/Users/dev/Courses/VisualStudio/WordUnscrambler/WordUnscrambler/bin/Debug/netcoreapp2.0/WordUnscrambler.runtimeconfig.dev.json
+/Users/dev/Courses/VisualStudio/WordUnscrambler/WordUnscrambler/bin/Debug/netcoreapp2.0/WordUnscrambler.dll
+/Users/dev/Courses/VisualStudio/WordUnscrambler/WordUnscrambler/bin/Debug/netcoreapp2.0/WordUnscrambler.pdb
+/Users/dev/Courses/VisualStudio/WordUnscrambler/WordUnscrambler/obj/Debug/netcoreapp2.0/WordUnscrambler.csprojResolveAssemblyReference.cache
+/Users/dev/Courses/VisualStudio/WordUnscrambler/WordUnscrambler/obj/Debug/netcoreapp2.0/WordUnscrambler.csproj.CoreCompileInputs.cache
+/Users/dev/Courses/VisualStudio/WordUnscrambler/WordUnscrambler/obj/Debug/netcoreapp2.0/WordUnscrambler.AssemblyInfoInputs.cache
+/Users/dev/Courses/VisualStudio/WordUnscrambler/WordUnscrambler/obj/Debug/netcoreapp2.0/WordUnscrambler.AssemblyInfo.cs
+/Users/dev/Courses/VisualStudio/WordUnscrambler/WordUnscrambler/obj/Debug/netcoreapp2.0/WordUnscrambler.dll
+/Users/dev/Courses/VisualStudio/WordUnscrambler/WordUnscrambler/obj/Debug/netcoreapp2.0/WordUnscrambler.pdb

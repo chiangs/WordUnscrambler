@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{B96FDFA7-064D-4B63-A8CD-E62C1B6D4988}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WordUnscrambler/Constants.cs">
+    <Files>
+      <File FileName="WordUnscrambler/Program.cs" Line="15" Column="55" />
+      <File FileName="WordUnscrambler/Workers/FileReader.cs" Line="5" Column="12" />
+      <File FileName="WordUnscrambler/Workers/WordMatcher.cs" Line="24" Column="62" />
+      <File FileName="WordUnscrambler/Data/MatchedWord.cs" Line="1" Column="1" />
+      <File FileName="WordUnscrambler/Constants.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WordUnscrambler PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
